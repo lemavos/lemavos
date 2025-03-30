@@ -1,5 +1,5 @@
 ### - About Me
-🇺🇸 US: Ayo there,my name's Henrique, I am a Junior DEV in python.I am learning python since october 2024.I live in Brazil and I am 16 years old.
+🇺🇸 EN: Ayo there,my name's Henrique, I am a Junior DEV in python.I am learning python since october 2024.I live in Brazil and I am 16 years old.
 
 🇧🇷 PT-BR: Olá, meu nome é Henrique, sou um DEV júnior em python. Estou aprendendo python desde outubro de 2024. Moro no Brasil e tenho 16 anos.
 
