@@ -34,6 +34,7 @@
 />
 
 <br/>
+---
 <br/>
 
 ### 📊 Estatistics / Estatísticas.
