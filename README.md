@@ -8,7 +8,9 @@
 
 
 </p>
-
+---
+### - My contacts. / Meus contatos.
+📧 Email: [henriquelsilva911@gmail.com](mailto:henriquelsilva911@gmail.com)
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -34,7 +36,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatistics / Estatísticas.
 
 <p>
   <img 
