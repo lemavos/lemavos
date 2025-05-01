@@ -6,12 +6,13 @@
 
 🇧🇷 PT-BR: Olá, meu nome é Henrique, sou um DEV júnior em python. Estou aprendendo python desde outubro de 2024. Moro no Brasil e tenho 16 anos.
 
-
-</p>
 ---
+
 ### - My contacts. / Meus contatos.
 📧 Email: [henriquelsilva911@gmail.com](mailto:henriquelsilva911@gmail.com)
+
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 <img 
