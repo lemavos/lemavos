@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Lemos
+# 🧑🏻‍💻 Henrique Lemos
 
 **`Dev Backend`**
 
