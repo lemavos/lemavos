@@ -11,9 +11,6 @@
 
 📧 Email: [henriquelsilva911@gmail.com](mailto:henriquelsilva911@gmail.com)
 
-
----
-
 <h2 align="center">Skills</h2>
 
 <p align="center">
