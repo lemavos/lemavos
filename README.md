@@ -1,26 +1,29 @@
-<h2 align="center">About Me </h2>
+<h2 align="center">About Me</h2>
 
-**`Dev Backend`**
+**`Backend Developer`**
 
-🇺🇸 EN: Ayo there,my name's Henrique, I am a Junior DEV in python.I am learning python since october 2024.I live in Brazil and I am 16 years old.
+🇺🇸 EN: Hey! I'm Henrique, a junior backend developer from Brazil. I've been learning Python since October 2024 and recently started exploring C++. I'm 16 years old and always working on small, practical projects to improve my skills.
 
-🇧🇷 PT-BR: Olá, meu nome é Henrique, sou um DEV júnior em python. Estou aprendendo python desde outubro de 2024. Moro no Brasil e tenho 16 anos.
+🇧🇷 PT-BR: Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Estudo Python desde outubro de 2024 e recentemente comecei a aprender C++. Tenho 16 anos e estou sempre criando projetos simples e práticos pra evoluir como dev.
 
 <br/>
-<h2 align="center">My contacts. </h2>
+
+<h2 align="center">My Contacts</h2>
 
 📧 Email: [henriquelsilva911@gmail.com](mailto:henriquelsilva911@gmail.com)
 
----
 <br/>
-<h2 align="center">Skills </h2>
+
+---
+
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,vscode" />
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=Henriquelemos911&theme=tokyonight&show_icons=true">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Henriquelemos911&theme=tokyonight&show_icons=true" />
 </p>
