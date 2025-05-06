@@ -6,13 +6,11 @@
 
 🇧🇷 PT-BR: Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Estudo Python desde outubro de 2024 e recentemente comecei a aprender C++. Tenho 16 anos e estou sempre criando projetos simples e práticos pra evoluir como dev.
 
-<br/>
 
 <h2 align="center">My Contacts</h2>
 
 📧 Email: [henriquelsilva911@gmail.com](mailto:henriquelsilva911@gmail.com)
 
-<br/>
 
 ---
 
