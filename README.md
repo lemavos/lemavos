@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
 
-**`Backend Developer`** **`C++ `** **`Python `**
+**`Backend Developer`** **`C++`** **`Python`**
 
 🇺🇸 EN:  
 Hey! I'm Henrique, a junior backend developer from Brazil. I've been learning Python since October 2024 and recently started exploring C++. I'm 16 years old and always working on small, practical projects to improve my skills.
