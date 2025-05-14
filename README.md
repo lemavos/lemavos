@@ -2,9 +2,11 @@
 
 **`Backend Developer`** **`C++`** **`Python`**
 
-🇺🇸 EN: Hey! I'm Henrique, a junior backend developer from Brazil. I've been learning Python since October 2024 and recently started exploring C++. I'm 16 years old and always working on small, practical projects to improve my skills.
+🇺🇸 EN: 
+Hey! I'm Henrique, a junior backend developer from Brazil. I've been learning Python since October 2024 and recently started exploring C++. I'm 16 years old and always working on small, practical projects to improve my skills.
 
-🇧🇷 PT-BR: Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Estudo Python desde outubro de 2024 e recentemente comecei a aprender C++. Tenho 16 anos e estou sempre criando projetos simples e práticos pra evoluir como dev.
+🇧🇷 PT-BR: 
+Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Estudo Python desde outubro de 2024 e recentemente comecei a aprender C++. Tenho 16 anos e estou sempre criando projetos simples e práticos pra evoluir como dev.
 
 <h2 align="center">My Contacts</h2>
 
