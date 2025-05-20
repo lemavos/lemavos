@@ -24,13 +24,13 @@ Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Est
   <img 
     align="center" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquelemos911&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   <img 
     align="center" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api?username=Henriquelemos911&theme=tokyonight&show_icons=true" 
   />
 </p>
