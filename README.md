@@ -14,7 +14,7 @@ Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Est
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
   </a>
 </p>
 
