@@ -10,17 +10,17 @@ Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Est
 
 ## My Contacts
 
-<a href="mailto:henriquelsilva911@gmail.com" target="_blank" style="vertical-align:middle;">
+<a href="mailto:henriquelsilva911@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Gmail" />
 </a>
-&nbsp; henriquelsilva911@gmail.com
+&nbsp;  -  henriquelsilva911@gmail.com
 
 <br />
 
 <a href="https://x.com/lemavoos" target="_blank" style="vertical-align:middle;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" alt="X" style="filter: grayscale(100%);" />
 </a>
-&nbsp; x.com/lemavoos
+&nbsp;  -  @lemavoos
 
 ---
 
