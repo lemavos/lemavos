@@ -1,4 +1,4 @@
-# Backend Developer C++ Python
+``Backend Developer`` ``C++`` ``Python``
 
 🇺🇸 EN:  
 Hey! I'm Henrique, a junior backend developer from Brazil. I've been learning Python since October 2024 and recently started exploring C++. I'm 16 years old and always working on small, practical projects to improve my skills.
@@ -8,7 +8,7 @@ Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Est
 
 ---
 
-## My Contacts
+<h2 align="center">My Contacts</h2>
 
 <a href="mailto:henriquelsilva911@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Gmail" />
@@ -24,23 +24,29 @@ Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Est
 
 ---
 
-## Skills
+<h2 align="center">Skills</h2>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
+  </a>
+</p>
 
 ---
 
-## Technologies
+<h2 align="center">Technologies</h2>
 
-<img 
-  alt="GitHub Stats" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemavos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-<img 
-  alt="GitHub Stats" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api?username=lemavos&theme=tokyonight&show_icons=true" 
-/>
+<p align="center">
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemavos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=lemavos&theme=tokyonight&show_icons=true" 
+  />
+</p>
