@@ -1,5 +1,4 @@
 <h2 align="center">About Me</h2>
-
 ```python
 from typing import Tuple, List, Dict
 
