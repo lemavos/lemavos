@@ -10,8 +10,8 @@ class Attributes(Henrique):
     @property
     def contact(self) -> Tuple[str, str]:
         email = 'henriquelsilva911@gmail.com'
-        x = @lemavoos
-        leetcode = lemavos
+        x = '@lemavoos'
+        leetcode = 'lemavos'
         return  email, x, leetcode
 
     @property
