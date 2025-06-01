@@ -8,7 +8,7 @@ class Henrique:
 
 class Attributes(Henrique):
     @property
-    def contact(self) -> Tuple[str, str]:
+    def social(self) -> Tuple[str, str]:
         email = 'henriquelsilva911@gmail.com'
         x = '@lemavoos'
         leetcode = 'lemavos'
