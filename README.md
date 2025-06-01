@@ -9,9 +9,10 @@ class Henrique:
 class Attributes(Henrique):
     @property
     def contact(self) -> Tuple[str, str]:
-        X = @lemavoos
         email = 'henriquelsilva911@gmail.com'
-        return X, email
+        x = @lemavoos
+        leetcode = lemavos
+        return  email, x, leetcode
 
     @property
     def life(self) -> Tuple[List[str], int]:
