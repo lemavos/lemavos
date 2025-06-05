@@ -77,7 +77,6 @@
 
 <ul style="max-width: 600px; margin: auto;">
   <li>🔸 Master Java backend development</li>
-  <li>🔸 Build my first neural network by end of 2025</li>
   <li>🔸 Solve more challenges on LeetCode</li>
   <li>🔸 Create useful personal projects</li>
   <li>🔸 Learn software architecture & design patterns</li>
