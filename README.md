@@ -1,49 +1,28 @@
-<h2 align="center">About Me</h2> 
+<h2 align="center">About Me</h2>
 
-```python
-from typing import Tuple, List, Dict
+<p align="center">
+  🇺🇸 <b>EN:</b><br>
+  Hey! I'm Henrique, a junior backend developer from Brazil. I started learning Python in October 2024 and since then I've built several practical and hands-on projects to solidify my knowledge. I've also been exploring C++ and recently started learning Java to grow my backend skills. I'm 16 years old and passionate about problem solving, especially through code. I love creating personal tools, simulations, and experimenting with new technologies to level up as a dev
+  <br><br>
+  🇧🇷 <b>PT-BR:</b><br>
+  Fala aí! Me chamo Henrique, sou um desenvolvedor backend júnior do Brasil. Comecei a estudar Python em outubro de 2024 e, desde então, venho criando vários projetos práticos pra firmar o que aprendo. Também explorei um pouco de C++ e recentemente iniciei meus estudos em Java pra evoluir no backend. Tenho 16 anos e sou apaixonado por resolver problemas com código. Curto muito criar ferramentas pessoais, simulações e testar tecnologias novas pra melhorar como dev.
 
-class Henrique:
-    pass
 
-class Attributes(Henrique):
-    @property
-    def social(self) -> Tuple[str, str]:
-        email = 'henriquelsilva911@gmail.com'
-        x = '@lemavoos'
-        leetcode = 'lemavos'
-        return  email, x, leetcode
+</p>
 
-    @property
-    def life(self) -> Tuple[List[str], int]:
-        langs = ['Portuguese', 'English']
-        age = 16
-        return langs, age
 
-    @property
-    def coding(self) -> Tuple[Dict[str, List[str]], List[str], str, Dict[str, Dict[str, str]]]:
-        langs = {
-            'learning': ['java']
-            'basic': ['python', 'cpp']
-        }
-        specialties = ['backend', 'bots']
-        ide = 'vscode'
-        pc = {
-            'Zorin OS': {
-                'processor': 'i3',
-                'ram': '4GB',
-                'gpu': 'integrated'
-            }
-        }
-        return langs, specialties, ide, pc
-```
+<h2 align="center">🌐 Social</h2>
 
----
+<!-- prettier-ignore -->
+<p align="center">
+  <a href="mailto:henriquelsilva911@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://x.com/lemavoos" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://leetcode.com/lemavoos" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
 
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode" />
 </p>
 
 ---
@@ -53,14 +32,14 @@ class Attributes(Henrique):
 <p align="center">
   <img 
     align="center" 
-    alt="GitHub Stats" 
+    alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemavos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemavos&theme=monokai&show_icons=true&hide_border=false&layout=compact" 
   />
   <img 
     align="center" 
-    alt="GitHub Stats" 
+    alt="GitHub Streak" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=lemavos&theme=tokyonight&show_icons=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lemavos&theme=monokai&hide_border=false" 
   />
 </p>
