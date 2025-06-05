@@ -36,28 +36,6 @@
 
 ---
 
-<h2 align="center">🚀 Projects / Projetos</h2>
-
-<p align="center">
-  <details>
-    <summary><strong>🔹 Project 1: Personal Tool (Example)</strong></summary>
-    <br>
-    <p><b>Description:</b> A CLI tool I built to automate my daily tasks and improve productivity.</p>
-    <p><b>Technologies:</b> Python, Git</p>
-    <p><b>GitHub:</b> <a href="https://github.com/lemavos/tool-project">github.com/lemavos/tool-project</a></p>
-  </details>
-
-  <details>
-    <summary><strong>🔹 Project 2: Simulation (Example)</strong></summary>
-    <br>
-    <p><b>Description:</b> A simulation project to understand algorithms and data structures better.</p>
-    <p><b>Technologies:</b> C++</p>
-    <p><b>GitHub:</b> <a href="https://github.com/lemavos/simulation-project">github.com/lemavos/simulation-project</a></p>
-  </details>
-</p>
-
----
-
 <h2 align="center">🌐 Social / Redes Sociais</h2>
 
 <p align="center">
