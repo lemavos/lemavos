@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Henrique!</h1>
+<h1 align="center">👋 Hey, I'm Henrique!</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=0D90F2&center=true&width=600&lines=Junior+Backend+Developer;Python+%7C+C%2B%2B+%7C+Java;Tech+Enthusiast+and+Problem+Solver" alt="Typing animation" />
