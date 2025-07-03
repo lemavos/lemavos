@@ -49,7 +49,7 @@
 <h2 align="center">⚙️ Skills / Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sqlite,git,github,vscode,linux" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sqlite,git,github,bash,vscode,linux,arch" alt="Skills Icons" />
 </p>
 
 ---
