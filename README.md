@@ -9,7 +9,7 @@
 <h2 align="center">📖 About Me / Sobre Mim</h2>
 
 <details>
-  <summary><strong>🇺🇸 English</strong></summary>
+  <summary><strong>🇺🇸 English</strong></summary> 
 
   Hey! I'm Henrique, a passionate junior backend developer from Brazil. I started learning Python in October 2024 and since then have built several hands-on projects to sharpen my skills. I’m exploring C++ and diving into Java backend development. I’m 16 years old and love problem-solving through code. Building tools, simulations, and experimenting with new tech are my jam!
 
