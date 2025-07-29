@@ -64,12 +64,6 @@
     height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemavos&theme=monokai&show_icons=true&hide_border=false&layout=compact" 
   />
-  <img 
-    align="center" 
-    alt="GitHub Streak" 
-    height="180" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lemavos&theme=monokai&hide_border=false" 
-  />
 </p>
 
 ---
