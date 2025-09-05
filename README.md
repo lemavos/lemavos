@@ -27,6 +27,3 @@ Hey! I'm [**Henrique**](mailto:henriquelsilva911@gmail.com), a passionate junior
   <li> Create useful personal projects</li>
   <li> Learn software architecture & design patterns</li>
 </ul>
-
-
----
