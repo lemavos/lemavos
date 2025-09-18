@@ -1,11 +1,11 @@
 <h1>Hi there 👋 </h1> 
 
-Hey! I'm [**Henrique**](mailto:henriquelsilva911@gmail.com), a passionate junior backend developer from Brazil. I started learning Python in October 2024 and since then have built several hands-on projects to sharpen my skills. I’m exploring C++ and diving into Java backend development. I’m 17 years old and love problem-solving through code. Building tools, simulations, and experimenting with new tech are my jam!
+Hey! I'm [**Henrique**](mailto:henriquelsilva911@gmail.com), a passionate junior developer based on Brazil.
 
 <details>
   <summary><strong>🇧🇷 Português</strong></summary>
 
-  Fala aí! Me chamo  [**Henrique**](mailto:henriquelsilva911@gmail.com), sou um desenvolvedor backend júnior do Brasil. Comecei a estudar Python em outubro de 2024 e desde então fiz vários projetos práticos pra consolidar o aprendizado. Também explorei C++ e estou me aprofundando em Java para backend. Tenho 17 anos e sou apaixonado por resolver problemas com código. Curto criar ferramentas, simulações e testar tecnologias novas.
+  Fala aí! Me chamo  [**Henrique**](mailto:henriquelsilva911@gmail.com), sou um desenvolvedor backend júnior do Brasil.
 
 </details>
 
