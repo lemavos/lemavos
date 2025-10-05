@@ -1,11 +1,11 @@
 <h1>Hi there 👋 </h1> 
 
-Hey! I'm [**Henrique**](mailto:henriquelsilva911@gmail.com), a passionate junior developer based on Brazil.
+Hey! I'm [**Henrique**](mailto:henriquelsilva@proton.me), a passionate junior developer based on Brazil.
 
 <details>
   <summary><strong>🇧🇷 Português</strong></summary>
 
-  Fala aí! Me chamo  [**Henrique**](mailto:henriquelsilva911@gmail.com), sou um desenvolvedor backend júnior do Brasil.
+  Fala aí! Me chamo  [**Henrique**](mailto:henriquelsilva@proton.me), sou um desenvolvedor backend júnior do Brasil.
 
 </details>
 
