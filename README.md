@@ -16,7 +16,7 @@ Hey! I'm [**Henrique**](mailto:henriquelsilva@proton.me), a passionate junior de
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,sqlite,git,github,bash,vscode,arch,spring" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=java,sqlite,git,github,bash,vscode,arch,spring,javascript" alt="Skills Icons" />
 </p>
 
 <h2>🎯 Goals: </h2>
