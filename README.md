@@ -1,4 +1,4 @@
-<h1>Hi there 👋 </h1> 
+<h1>Hi there 👋</h1> 
 
 Hey! I'm [**Henrique**](mailto:lemxvos.dev@proton.me), a passionate junior developer based on Brazil.
 
