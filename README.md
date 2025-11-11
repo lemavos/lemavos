@@ -12,16 +12,14 @@
 
 ### 🧠 About Me  
 Hey! I'm [**Henrique**](mailto:lemxvos.dev@proton.me), a **junior backend developer** from Brazil who loves turning logic into clean, maintainable code.  
-I’m currently sharpening my skills in **Java**, **Spring Boot**, and **software architecture**, while exploring **Python** for automation and scripting.
-
-> “I don’t just write code — I design solutions that actually work.”
+I’m currently sharpening my skills in **Java**, **Spring Boot**, and **software architecture**.
 
 <details>
   <summary><strong>🇧🇷 Versão em Português</strong></summary>
 
   Fala aí! Sou o [**Henrique**](mailto:lemxvos.dev@proton.me), desenvolvedor backend júnior do Brasil.  
   Gosto de resolver problemas de forma lógica e criar código limpo e funcional.  
-  Atualmente foco em **Java**, **Spring Boot** e **boas práticas de arquitetura** — além de usar **Python** para automações e scripts rápidos.
+  Atualmente foco em **Java**, **Spring Boot** e **boas práticas de arquitetura**.
 </details>
 
 ---
