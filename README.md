@@ -33,7 +33,6 @@ I’m currently sharpening my skills in **Java**, **Spring Boot**, and **softwar
 
 ### 🎯 Current Goals  
 - Master **Java backend development**  
-- Solve more challenges on [**LeetCode**](https://leetcode.com/lemavoos)  
 - Build **automation tools** and **APIs** with real-world use  
 - Study **software design patterns** and **clean architecture**
 
@@ -50,7 +49,6 @@ I’m currently sharpening my skills in **Java**, **Spring Boot**, and **softwar
 ### 💬 Connect with Me  
 <p align="center">
   <a href="mailto:lemxvos.dev@proton.me"><img src="https://img.shields.io/badge/Email-0D90F2?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/lemavoos"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://github.com/lemavos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
