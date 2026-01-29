@@ -1,44 +1,64 @@
-<h1 align="center">Hi there 👋, I'm Henrique</h1>
-
-<p align="center">
-  <em>Backend Developer • Java Enthusiast • Automation Addict</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=2000&color=0D90F2&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer;Building+APIs+and+Automation+Tools;Tech+Enthusiast+and+Problem+Solver" alt="Typing animation" />
+<h1 align="center">👋 Hi there, I'm Henrique</h1><p align="center">
+  <strong>Backend Developer • Java-Focused • Automation-Driven</strong>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1800&color=0D90F2&center=true&vCenter=true&width=650&lines=Backend+Developer+%28Java%29;APIs%2C+Automation+and+Architecture;Building+Systems+that+Actually+Scale" alt="Typing animation" />
 </p>
 
 ---
 
-### 🧠 About Me  
-Hey! I'm [**Henrique**](mailto:lemxvos.dev@proton.me), a **junior backend developer** from Brazil who loves turning logic into clean, maintainable code.  
-I’m currently sharpening my skills in **Java**, **Spring Boot**, and **software architecture**.
+🧠 About Me
+
+I’m Henrique, a backend-focused developer from Brazil with a strong bias toward logic, structure, and systems that scale cleanly.
+
+My core stack revolves around Java + Spring Boot, where I build APIs, authentication flows, and automation tools with a pragmatic, real-world approach. I care less about buzzwords and more about maintainability, scalability, and clarity.
+
+I treat code like infrastructure: if it doesn’t scale mentally, it won’t scale technically.
 
 <details>
-  <summary><strong>🇧🇷 Versão em Português</strong></summary>
+  <summary><strong>🇧🇷 Versão em Português</strong></summary>Sou o Henrique, desenvolvedor backend focado em Java, com mentalidade orientada a sistemas, automação e arquitetura limpa.
 
-  Fala aí! Sou o [**Henrique**](mailto:lemxvos.dev@proton.me), desenvolvedor backend júnior do Brasil.  
-  Gosto de resolver problemas de forma lógica e criar código limpo e funcional.  
-  Atualmente foco em **Java**, **Spring Boot** e **boas práticas de arquitetura**.
+Meu objetivo é criar software simples de entender, fácil de manter e pronto para crescer. Prefiro soluções bem pensadas a atalhos rápidos.
+
 </details>
 
 ---
 
-### ⚙️ Tech Stack  
+⚙️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,python,git,github,bash,vscode,arch" alt="Tech Stack" />
-</p>
+</p>Core competencies:
+
+Java (Spring Boot, REST APIs, JWT, Maven)
+
+Backend architecture & clean project structuring
+
+Authentication & authorization flows
+
+Automation & scripting (Python, Bash)
+
+Git-first, CLI-oriented workflow
+
+Linux-based development (Arch ecosystem)
 
 ---
 
-### 🎯 Current Goals  
-- Master **Java backend development**  
-- Build **automation tools** and **APIs** with real-world use  
-- Study **software design patterns** and **clean architecture**
+🎯 Strategic Focus
+
+Deepen expertise in Java backend engineering
+
+Design and ship production-grade APIs
+
+Build automation tools that remove friction
+
+Study design patterns, clean architecture, and system design
+
+Execution > theory. Every concept is validated through working code.
 
 ---
 
-### 📊 GitHub Overview  
+📊 GitHub Snapshot
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lemavos&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemavos&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -46,14 +66,19 @@ I’m currently sharpening my skills in **Java**, **Spring Boot**, and **softwar
 
 ---
 
-### 💬 Connect with Me  
+💬 Connect
+
 <p align="center">
-  <a href="mailto:lemxvos.dev@proton.me"><img src="https://img.shields.io/badge/Email-0D90F2?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a href="https://github.com/lemavos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:lemxvos.dev@proton.me">
+    <img src="https://img.shields.io/badge/Email-ProtonMail-0D90F2?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/lemavos">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Code is not just syntax — it’s structured thought."</em>
+  <em>"Good code scales teams before it scales traffic."</em>
 </p>
