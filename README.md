@@ -23,6 +23,18 @@ Meu objetivo é criar software simples de entender, fácil de manter e pronto pa
 
 ---
 
+🚀 Active Project
+
+[Continuum](https://github.com/lemniva/continuum-api)
+
+Backend platform focused on authentication, user management, and scalable API design.
+
+Built with a real-world mindset: clean architecture, JWT-based auth flows, webhooks, and production-oriented structure using Java + Spring Boot.
+
+This project is my primary execution playground — where concepts turn into systems.
+
+---
+
 ⚙️ Tech Stack
 
 <p align="center">
@@ -52,6 +64,7 @@ Design and ship production-grade APIs
 Build automation tools that remove friction
 
 Study design patterns, clean architecture, and system design
+
 
 Execution > theory. Every concept is validated through working code.
 
