@@ -25,7 +25,7 @@ Meu objetivo é criar software simples de entender, fácil de manter e pronto pa
 
 🚀 Active Project
 
-[Continuum](https://github.com/lemnova/continuum-api)
+[Continuum](https://github.com/lemavos/continuum)
 
 Backend platform focused on authentication, user management, and scalable API design.
 
